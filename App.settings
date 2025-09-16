@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MaddenCoSyncUtility" GeneratedClassName="App">
+  <Profiles />
+  <Settings>
+    <Setting Name="DBServ" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TNSQLServer</Value>
+    </Setting>
+    <Setting Name="ODBCConn" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Dsn=Snider ODBC</Value>
+    </Setting>
+    <Setting Name="DBDevServ" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TNDevServer/TNSQLDev</Value>
+    </Setting>
+    <Setting Name="ElasticKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DL1Wm1siDlSWHqY6b7NKL5mb</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
